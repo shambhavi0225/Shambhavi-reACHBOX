@@ -1,5 +1,3 @@
-# Shambhavi-reACHBOX
-
 # ReachInbox.AI: React Project
 
 ---
